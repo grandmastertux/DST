@@ -96,3 +96,15 @@ ServerModSetup("666155465")
 
 --#Flower Box DST
 ServerModSetup("512502326")
+
+--#DST Rabbit Cage
+ServerModSetup("1788625832")
+
+--#Dig your pond! [with Set Piece and Full Moon Event]
+ServerModSetup("1277476875")
+
+--#Small Pathway Light
+ServerModSetup("1556698312")
+
+--#Furniture Megapack
+ServerModSetup("1322590454")

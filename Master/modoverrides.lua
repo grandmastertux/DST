@@ -77,7 +77,14 @@ return {
 --#Show Me
 ["workshop-666155465"] = { enabled = true },
 --#Flower Box DST
-["workshop-512502326"] = { enabled = true }
-
+["workshop-512502326"] = { enabled = true },
+--#DST Rabbit Cage
+["workshop-1788625832"] = { enabled = true },
+--#Dig your pond! [with Set Piece and Full Moon Event]
+["workshop-1277476875"] = { enabled = true },
+--#Small Pathway Light
+["workshop-1556698312"] = { enabled = true },
+--#Furniture Megapack
+["workshop-1322590454"] = { enabled = true }
 }
 
