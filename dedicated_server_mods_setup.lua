@@ -108,3 +108,45 @@ ServerModSetup("1556698312")
 
 --#Furniture Megapack
 ServerModSetup("1322590454")
+
+--#Craftable Bone Shards
+ServerModSetup("1639740381")
+
+--#DST Birdhouses
+ServerModSetup("1814389268")
+
+--#Clock in caves
+ServerModSetup("1912697894")
+
+--#Fishing everywhere
+ServerModSetup("1856536279")
+
+--#Fast Travel (Directional Sign)
+ServerModSetup("1694702318")
+
+--#Paintings of Vignettes
+ServerModSetup("1613276969")
+
+--#Magic Bottle Lanterns (DST)
+ServerModSetup("787954095")
+
+--#Windy Plains
+ServerModSetup("923823873")
+
+--#Metal Boat
+ServerModSetup("1764734420")
+
+--#Seafaring: Cannon, Turbine Engine, Floodlight, Boat Torches
+ServerModSetup("1910111177")
+
+--#Aquarium Plus
+ServerModSetup("1674145489")
+
+--#Arcadiea
+ServerModSetup("1872917938")
+
+--#Trash Can
+ServerModSetup("1259245585")
+
+--#Pirate Mast
+ServerModSetup("1758320475")

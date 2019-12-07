@@ -85,6 +85,33 @@ return {
 --#Small Pathway Light
 ["workshop-1556698312"] = { enabled = true },
 --#Furniture Megapack
-["workshop-1322590454"] = { enabled = true }
+["workshop-1322590454"] = { enabled = true },
+--#Craftable Bone Shards
+["workshop-1639740381"] = { enabled = true },
+--#DST Birdhouses
+["workshop-1814389268"] = { enabled = true },
+--#Clock in caves
+["workshop-1912697894"] = { enabled = true },
+--#Fishing everywhere
+["workshop-1856536279"] = { enabled = true },
+--#Fast Travel (Directional Sign)
+["workshop-1694702318"] = { enabled = true },
+--#Paintings of Vignettes
+["workshop-1613276969"] = { enabled = true },
+--#Magic Bottle Lanterns (DST)
+["workshop-787954095"] = { enabled = true },
+--#Windy Plains
+["workshop-923823873"] = { enabled = true },
+--#Metal Boat
+["workshop-1764734420"] = { enabled = true },
+--#Seafaring: Cannon, Turbine Engine, Floodlight, Boat Torches
+["workshop-1910111177"] = { enabled = true },
+--#Aquarium Plus
+["workshop-1674145489"] = { enabled = true },
+--#Arcadiea
+["workshop-1872917938"] = { enabled = true },
+--#Trash Can
+["workshop-1259245585"] = { enabled = true },
+--#Pirate Mast
+["workshop-1758320475"] = { enabled = true }
 }
-
