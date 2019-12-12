@@ -100,8 +100,6 @@ return {
 ["workshop-1613276969"] = { enabled = true },
 --#Magic Bottle Lanterns (DST)
 ["workshop-787954095"] = { enabled = true },
---#Windy Plains
-["workshop-923823873"] = { enabled = true },
 --#Metal Boat
 ["workshop-1764734420"] = { enabled = true },
 --#Seafaring: Cannon, Turbine Engine, Floodlight, Boat Torches
