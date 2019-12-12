@@ -130,9 +130,6 @@ ServerModSetup("1613276969")
 --#Magic Bottle Lanterns (DST)
 ServerModSetup("787954095")
 
---#Windy Plains
-ServerModSetup("923823873")
-
 --#Metal Boat
 ServerModSetup("1764734420")
 
