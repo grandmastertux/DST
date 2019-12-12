@@ -147,3 +147,6 @@ ServerModSetup("1259245585")
 
 --#Pirate Mast
 ServerModSetup("1758320475")
+
+--#Dig up Reeds
+ServerModSetup("1359770917")
