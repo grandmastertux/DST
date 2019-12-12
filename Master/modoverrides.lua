@@ -113,3 +113,6 @@ return {
 --#Pirate Mast
 ["workshop-1758320475"] = { enabled = true }
 }
+--#Dig up Reeds
+["workshop-1259245585"] = { enabled = true }
+}
