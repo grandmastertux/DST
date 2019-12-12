@@ -111,5 +111,9 @@ return {
 --#Trash Can
 ["workshop-1259245585"] = { enabled = true },
 --#Pirate Mast
-["workshop-1758320475"] = { enabled = true }
+["workshop-1758320475"] = { enabled = true },
+--#Dig up Reeds
+["workshop-1359770917"] = { enabled = true }
 }
+
+
