@@ -119,7 +119,7 @@ ServerModSetup("1814389268")
 ServerModSetup("1912697894")
 
 --#Fishing everywhere
-ServerModSetup("1856536279")
+--ServerModSetup("1856536279")
 
 --#Fast Travel (Directional Sign)
 ServerModSetup("1694702318")
