@@ -93,7 +93,7 @@ return {
 --#Clock in caves
 ["workshop-1912697894"] = { enabled = true },
 --#Fishing everywhere
-["workshop-1856536279"] = { enabled = true },
+--["workshop-1856536279"] = { enabled = true },
 --#Fast Travel (Directional Sign)
 ["workshop-1694702318"] = { enabled = true },
 --#Paintings of Vignettes
